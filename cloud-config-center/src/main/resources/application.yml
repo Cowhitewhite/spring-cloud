@@ -1,0 +1,23 @@
+server:
+  port: 3000
+
+spring:
+  application:
+    name: cloud-config-center
+  cloud:
+    config:
+      server:
+        git:
+          uri: git@github.com:Cowhitewhite/springcloud-config.git
+          search-paths: #搜索目录
+            - springcloud-config
+      label: master #读取分支
+
+
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:7001/eureka,http://localhost:7000/eureka

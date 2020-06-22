@@ -1,0 +1,10 @@
+# Project exclude paths
+/cloud-commons/target/
+/cloud-consumer/target/
+/cloud-consumer-feign/target/
+/cloud-consumer-zk-9100/target/
+/cloud-eureka/target/
+/cloud-eureka2/target/
+/cloud-provider/target/
+/cloud-provider2/target/
+/cloud-provider-zk-8004/target/
