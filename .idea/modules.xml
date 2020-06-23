@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-commons/cloud-commons.iml" filepath="$PROJECT_DIR$/cloud-commons/cloud-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-center/cloud-config-center.iml" filepath="$PROJECT_DIR$/cloud-config-center/cloud-config-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-center-3355/cloud-config-center-3355.iml" filepath="$PROJECT_DIR$/cloud-config-center-3355/cloud-config-center-3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consumer-feign/cloud-consumer-feign.iml" filepath="$PROJECT_DIR$/cloud-consumer-feign/cloud-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consumer-feign-hystrix-order/cloud-consumer-feign-hystrix-order.iml" filepath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order/cloud-consumer-feign-hystrix-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consumer-zk-9100/cloud-consumer-zk-9100.iml" filepath="$PROJECT_DIR$/cloud-consumer-zk-9100/cloud-consumer-zk-9100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka/cloud-eureka.iml" filepath="$PROJECT_DIR$/cloud-eureka/cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka2/cloud-eureka2.iml" filepath="$PROJECT_DIR$/cloud-eureka2/cloud-eureka2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-gatway/cloud-gatway.iml" filepath="$PROJECT_DIR$/cloud-gatway/cloud-gatway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-hystrix-dashboard/cloud-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/cloud-hystrix-dashboard/cloud-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consumer/cloud-order.iml" filepath="$PROJECT_DIR$/cloud-consumer/cloud-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-provider/cloud-provider.iml" filepath="$PROJECT_DIR$/cloud-provider/cloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-provider-hystrix-payment/cloud-provider-hystrix-payment.iml" filepath="$PROJECT_DIR$/cloud-provider-hystrix-payment/cloud-provider-hystrix-payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-provider-zk-8004/cloud-provider-zk-8004.iml" filepath="$PROJECT_DIR$/cloud-provider-zk-8004/cloud-provider-zk-8004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-provider2/cloud-provider2.iml" filepath="$PROJECT_DIR$/cloud-provider2/cloud-provider2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-stream-rabbitmq-client8802/cloud-stream-rabbitmq-client8802.iml" filepath="$PROJECT_DIR$/cloud-stream-rabbitmq-client8802/cloud-stream-rabbitmq-client8802.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-stream-rabbitmq-client8803/cloud-stream-rabbitmq-client8803.iml" filepath="$PROJECT_DIR$/cloud-stream-rabbitmq-client8803/cloud-stream-rabbitmq-client8803.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/cloud-stream-rabbitmq-provider8801.iml" filepath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/cloud-stream-rabbitmq-provider8801.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudalibaba-client-order83/cloudalibaba-client-order83.iml" filepath="$PROJECT_DIR$/cloudalibaba-client-order83/cloudalibaba-client-order83.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/cloudalibaba-config-nacos-client3377.iml" filepath="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/cloudalibaba-config-nacos-client3377.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudalibaba-provider-payment9001/cloudalibaba-provider-payment9001.iml" filepath="$PROJECT_DIR$/cloudalibaba-provider-payment9001/cloudalibaba-provider-payment9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudalibaba-provider-payment9002/cloudalibaba-provider-payment9002.iml" filepath="$PROJECT_DIR$/cloudalibaba-provider-payment9002/cloudalibaba-provider-payment9002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-config-3366/springcloud-config-3366.iml" filepath="$PROJECT_DIR$/springcloud-config-3366/springcloud-config-3366.iml" />
+    </modules>
+  </component>
+</project>
