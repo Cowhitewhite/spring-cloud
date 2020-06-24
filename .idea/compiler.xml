@@ -16,21 +16,22 @@
         <module name="cloud-config-center-3355" />
         <module name="cloud-provider-hystrix-payment" />
         <module name="cloud-eureka2" />
-        <module name="cloud-hystrix-dashboard" />
-        <module name="cloud-provider-zk-8004" />
         <module name="cloud-commons" />
+        <module name="cloud-consumer-zk-9100" />
         <module name="cloud-provider2" />
         <module name="cloud-stream-rabbitmq-provider8801" />
         <module name="cloud-eureka" />
         <module name="cloud-provider" />
-        <module name="cloud-consumer-zk-9100" />
+        <module name="cloud-consumer-feign-hystrix-order" />
+        <module name="cloud-hystrix-dashboard" />
         <module name="springcloud-config-3366" />
         <module name="cloud-order" />
         <module name="cloud-consumer-feign" />
         <module name="cloud-gatway" />
+        <module name="cloudalibaba-sentinel-service8401" />
         <module name="cloudalibaba-client-order83" />
         <module name="cloud-config-center" />
-        <module name="cloud-consumer-feign-hystrix-order" />
+        <module name="cloud-provider-zk-8004" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -60,6 +61,7 @@
       <module name="cloudalibaba-provider-payment9001" target="1.8" />
       <module name="cloudalibaba-provider-payment9001 (1)" target="1.8" />
       <module name="cloudalibaba-provider-payment9002" target="1.8" />
+      <module name="cloudalibaba-sentinel-service8401" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="spring-cloud" target="1.8" />
       <module name="springcloud-config-3366" target="1.8" />

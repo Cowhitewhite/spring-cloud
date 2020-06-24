@@ -8,6 +8,15 @@ spring:
     nacos:
       discovery:
         server-addr: localhost:8848
+    sentinel:
+      transport:
+        dashboard: localhost:8080
+        port: 8719
+
 #消费者将要去访问的微服务名称
 service-url:
   nacos-user-service: http://nacos-payment-service
+
+feign:
+  sentinel:
+    enabled: true

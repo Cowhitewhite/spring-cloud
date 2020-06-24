@@ -45,6 +45,8 @@
     <file url="file://$PROJECT_DIR$/cloudalibaba-provider-payment9001/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudalibaba-provider-payment9002/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloudalibaba-provider-payment9002/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-config-3366/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-config-3366/src/main/resources" charset="UTF-8" />
   </component>
