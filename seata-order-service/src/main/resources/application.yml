@@ -1,0 +1,31 @@
+server:
+  port: 2020
+
+spring:
+  application:
+    name: seata-order-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+    alibaba:
+      seata:
+        tx-service-group: fsp_tx_group
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://139.196.46.247:3306/seata_order
+    username: root
+    password: abc123!
+
+  jpa:
+    show-sql: true
+
+
+management:
+  endpoint:
+    web:
+      exposure:
+        include: '*'
+feign:
+  hystrix:
+    enabled: false

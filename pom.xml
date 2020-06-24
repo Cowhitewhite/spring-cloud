@@ -33,6 +33,7 @@
         <module>cloudalibaba-client-order83</module>
         <module>cloudalibaba-config-nacos-client3377</module>
         <module>cloudalibaba-sentinel-service8401</module>
+        <module>seata-order-service</module>
     </modules>
     <packaging>pom</packaging>
 
