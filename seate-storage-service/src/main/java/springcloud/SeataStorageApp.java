@@ -15,8 +15,8 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @SpringBootApplication(exclude = DataSourceAutoConfiguration.class)
 @EnableFeignClients
 @EnableDiscoveryClient
-public class SeataOrderApp {
+public class SeataStorageApp {
     public static void main(String[] args) {
-        SpringApplication.run(SeataOrderApp.class,args);
+        SpringApplication.run(SeataStorageApp.class,args);
     }
 }

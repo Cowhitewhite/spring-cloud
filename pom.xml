@@ -34,6 +34,8 @@
         <module>cloudalibaba-config-nacos-client3377</module>
         <module>cloudalibaba-sentinel-service8401</module>
         <module>seata-order-service</module>
+        <module>seate-storage-service</module>
+        <module>seata-account-service</module>
     </modules>
     <packaging>pom</packaging>
 

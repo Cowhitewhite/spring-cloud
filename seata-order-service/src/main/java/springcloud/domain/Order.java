@@ -1,8 +1,6 @@
-package springcloud.entity;
+package springcloud.domain;
 
 import lombok.Data;
-
-import javax.persistence.*;
 import java.math.BigDecimal;
 
 /**
@@ -12,12 +10,8 @@ import java.math.BigDecimal;
  * @Created by ChenHao
  */
 @Data
-@Entity
-@Table(name = "t_order")
 public class Order {
 
-    @Id
-    @GeneratedValue(strategy= GenerationType.AUTO)
     private Integer id;
 
     private Integer userId;

@@ -7,16 +7,16 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.openfeign.EnableFeignClients;
 
 /**
- * @Classname SeataOrderApp
+ * @Classname SeateAccountApp
  * @Description TODO
- * @Date 2020/6/24 16:54
+ * @Date 2020/6/29 15:01
  * @Created by ChenHao
  */
 @SpringBootApplication(exclude = DataSourceAutoConfiguration.class)
 @EnableFeignClients
 @EnableDiscoveryClient
-public class SeataOrderApp {
+public class SeateAccountApp {
     public static void main(String[] args) {
-        SpringApplication.run(SeataOrderApp.class,args);
+        SpringApplication.run(SeateAccountApp.class,args);
     }
 }
