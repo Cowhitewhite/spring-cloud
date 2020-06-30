@@ -19,7 +19,7 @@
 |cloud-stream-rabbitmq-client8802 | eureka | 整合rabbitmq消息的中间件,接收消息|
 |cloud-stream-rabbitmq-client8803 | eureka | 整合rabbitmq消息的中间件,接收消息|
 |cloud-provider-zk-8004 | zookeeper | 服务提供者|
-|cloud-consumer | zookeeper | 服务消费者|
+|cloud-consumer-zk-9001 | zookeeper | 服务消费者|
 |cloudalibaba-provider-payment9001 | nacos | 服务提供者|
 |cloudalibaba-provider-payment9002 | nacos | 服务提供者|
 |cloudalibaba-client-order83 | nacos | 服务消费者|
